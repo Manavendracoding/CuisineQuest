@@ -1,0 +1,21 @@
+
+/* Reset some basic elements for better cross-browser consistency */
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply some basic font and background styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000;
+    color: #333;
+}
+
+/* Center the app content */
+.App {
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
